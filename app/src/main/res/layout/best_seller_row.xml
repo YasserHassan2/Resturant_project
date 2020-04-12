@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    android:id="@+id/bodyy"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="5dp"
+    android:layout_marginTop="5dp">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.restruant_project.ui.RoundRectCornerImageView
+        android:id="@+id/img_bestSeller"
+        android:layout_width="155dp"
+        android:layout_height="120dp"
+        android:src="@drawable/back_food"
+        android:layout_gravity="center"
+        android:scaleType="fitXY"
+        android:layout_margin="8dp"
+        ></com.example.restruant_project.ui.RoundRectCornerImageView>
+    <TextView
+        android:id="@+id/tv_bestseller_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Checken Wraper"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        ></TextView>
+    <TextView
+        android:id="@+id/tv_bestseller_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Checken Wraper"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:layout_marginLeft="8dp"
+        android:layout_margin="8dp"
+        android:textSize="15dp"
+        android:textColor="@color/dark_gray"
+        ></TextView>
+    <TextView
+        android:id="@+id/tv_bestseller_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="120 EGP"
+        android:gravity="end"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:layout_marginLeft="8dp"
+        android:layout_margin="8dp"
+        android:textSize="18dp"
+        android:textColor="@color/dark_gray"
+        ></TextView>
+
+
+</LinearLayout>
+</androidx.cardview.widget.CardView>

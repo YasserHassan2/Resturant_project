@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#27496d</color>
+    <color name="colorPrimaryDark">#142850</color>
+    <color name="colorAccent">#707070</color>
+
+
+    <color name="transparent">#00ffffff</color>
+    <color name="transparent_gray">#F1EFEF</color>
+    <color name="transparent_gray2">#4DDADADA</color>
+    <color name="transparent_gray3">#F5F5F5</color>
+    <color name="transparent_blue">#F2FCFF</color>
+    <color name="light_gray">#DADADA</color>
+    <color name="mid_gray">#929292</color>
+    <color name="semiTransparentColor">#CCFFFFFF</color>
+    <color name="dark_gray">#707070</color>
+    <color name="dark_gray_transparent">#50707070</color>
+    <color name="darker_gray">#505050</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#4CD258</color>
+    <color name="gold">#D4AF37</color>
+
+    <color name="overlay_black">#aa000000</color>
+
+    <color name="text_blue">#3FB0FF</color>
+    <color name="text_dark_blue">#101C56</color>
+    <color name="text_mid_blue">#162E9E</color>
+    <color name="text_light_blue">#81DEFF</color>
+    <color name="text_lighter_blue">#C5FBFF</color>
+    <color name="text_title_blue">#0071BA</color>
+    <color name="text_orange">#FFAE3F</color>
+    <color name="text_light_red">#FB9E97</color>
+    <color name="text_purpl">#9377C3</color>
+    <color name="text_dark">#1B1C2C</color>
+    <color name="text_dark_red">#C23431</color>
+    <color name="text_green">#4D9553</color>
+    <color name="text_yellow">#FFDA68</color>
+    <color name="text_gray">#707070</color>
+
+    <color name="background_blue">#088BDA</color>
+    <color name="background_light_blue">#00A7E1</color>
+
+    <color name="first_slide_background">#E91E63</color>
+    <color name="first_slide_buttons">#880E4F</color>
+
+    <color name="second_slide_background">#9C27B0</color>
+    <color name="second_slide_buttons">#4A148C</color>
+
+    <color name="third_slide_background">#009688</color>
+    <color name="third_slide_buttons">#004D40</color>
+
+    <color name="fourth_slide_background">#795548</color>
+    <color name="fourth_slide_buttons">#3E2723</color>
+
+    <color name="custom_slide_background">#3F51B5</color>
+    <color name="custom_slide_buttons">#1A237E</color>
+
+    <color name="red">#FF0000</color>
+
+    <color name="filtersfab">#3f51b5</color>
+    <color name="filters_header">#303f9f</color>
+    <color name="filters_buttons">#ff4081</color>
+    <color name="filters_buttons_selected">#c2185b</color>
+    <color name="filters_chips">#b3e5fc</color>
+
+    <color name="orange">#ff5722</color>
+    <color name="brown">#795548</color>
+
+</resources>
